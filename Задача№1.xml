@@ -1,3 +1,5 @@
+Задача №1: проверить XML на Well formed
+
 <?xml=version "1.0"?>
 <req>
 	<surname>Иванов</surname>
